@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/rancho-alegre-menu/static/css/main.edce0b52.css",
-    "main.js": "/rancho-alegre-menu/static/js/main.12a35cdd.js",
+    "main.css": "/rancho-alegre-menu/static/css/main.a26f4cd6.css",
+    "main.js": "/rancho-alegre-menu/static/js/main.431366d1.js",
     "index.html": "/rancho-alegre-menu/index.html",
-    "main.edce0b52.css.map": "/rancho-alegre-menu/static/css/main.edce0b52.css.map",
-    "main.12a35cdd.js.map": "/rancho-alegre-menu/static/js/main.12a35cdd.js.map"
+    "main.a26f4cd6.css.map": "/rancho-alegre-menu/static/css/main.a26f4cd6.css.map",
+    "main.431366d1.js.map": "/rancho-alegre-menu/static/js/main.431366d1.js.map"
   },
   "entrypoints": [
-    "static/css/main.edce0b52.css",
-    "static/js/main.12a35cdd.js"
+    "static/css/main.a26f4cd6.css",
+    "static/js/main.431366d1.js"
   ]
 }
