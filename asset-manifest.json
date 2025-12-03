@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rancho-alegre-react/static/css/main.e789e4ef.css",
+    "main.js": "/rancho-alegre-react/static/js/main.12a35cdd.js",
+    "index.html": "/rancho-alegre-react/index.html",
+    "main.e789e4ef.css.map": "/rancho-alegre-react/static/css/main.e789e4ef.css.map",
+    "main.12a35cdd.js.map": "/rancho-alegre-react/static/js/main.12a35cdd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e789e4ef.css",
+    "static/js/main.12a35cdd.js"
+  ]
+}
